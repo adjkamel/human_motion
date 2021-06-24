@@ -14,6 +14,8 @@ This repository contains parts of the code for the paper [Efficient Body Motion 
 
 ### Demo
 
+https://user-images.githubusercontent.com/50513215/123329060-4a824880-d534-11eb-8d93-5d3aaf104392.mp4
+
 #### Citation
 If you use this code for your research, please cite the following paper:
 ```
