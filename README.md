@@ -2,6 +2,17 @@
 This repository contains parts of the code for the paper [Efficient Body Motion Quantification and Similarity Evaluation Using 3-D Joints Skeleton Coordinates
 ](https://ieeexplore.ieee.org/abstract/document/8727745) 
 
+
+### dataset
+
+### Data prerpcessing
+
+### Motion quatification
+
+### Motion comparison
+
+### Demo
+
 #### Citation
 If you use this code for your research, please cite the following paper:
 ```
