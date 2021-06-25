@@ -3,12 +3,17 @@ This repository contains parts of the code for the paper [Efficient Body Motion 
 ](https://ieeexplore.ieee.org/abstract/document/8727745) 
 
 ### Requirements
-
+Matlab 2016a or above
 ### Dataset
+- Recorded motion using Kinect V2 with Brekel Body software in .bvh format
+- 
 
 ### Data prerpcessing
 
 ### Motion quatification
+
+
+
 
 ### Motion comparison
 
