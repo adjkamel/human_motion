@@ -21,6 +21,7 @@ Matlab 2016a or above
 
 ### Demo
 - To run the demo like the bellow video, run main.m with matlab
+
 https://user-images.githubusercontent.com/50513215/123329060-4a824880-d534-11eb-8d93-5d3aaf104392.mp4
 
 More details about the agorithms, math, and user study can be found in the paper 
