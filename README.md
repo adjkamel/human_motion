@@ -8,17 +8,17 @@ Matlab 2016a or above
 - Recorded motion using Kinect V2 with Brekel Body software in .bvh format
 - 
 
-### Data prerpcessing
 
 ### Motion quatification
 
-
+![Capture](https://user-images.githubusercontent.com/50513215/123349626-79f37e00-d551-11eb-8a8b-91eafdac44b8.PNG)
 
 
 ### Motion comparison
+![Capture](https://user-images.githubusercontent.com/50513215/123349842-adcea380-d551-11eb-89f9-79edb1ac8dce.PNG)
 
 ### Demo
-
+- To run the demo like the bellow video, run main.m with matlab
 https://user-images.githubusercontent.com/50513215/123329060-4a824880-d534-11eb-8d93-5d3aaf104392.mp4
 
 #### Citation
