@@ -10,7 +10,7 @@ Matlab 2016a or above
 
 
 ### Motion quatification
-![Capture](https://user-images.githubusercontent.com/50513215/124355780-de29d800-dc0a-11eb-87be-a7f6b0d90760.PNG)
+![Capture](https://user-images.githubusercontent.com/50513215/124355817-0b768600-dc0b-11eb-9547-36b80181ca9f.PNG)
 
 ![123349626-79f37e00-d551-11eb-8a8b-91eafdac44b8](https://user-images.githubusercontent.com/50513215/123350767-955f8880-d553-11eb-804d-3350ae9711eb.png)
 
