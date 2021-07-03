@@ -9,15 +9,16 @@ Matlab 2016a or above
 - Motions from [UTD-MHAD](https://personal.utdallas.edu/~kehtar/UTD-MHAD.html) dataset
 
 
-### Motion quatification
+### Motion quatification metrics
 ![Capture](https://user-images.githubusercontent.com/50513215/124355817-0b768600-dc0b-11eb-9547-36b80181ca9f.PNG)
 
 ![123349626-79f37e00-d551-11eb-8a8b-91eafdac44b8](https://user-images.githubusercontent.com/50513215/123350767-955f8880-d553-11eb-804d-3350ae9711eb.png)
 
 
 
-### Motion comparison
-![123349842-adcea380-d551-11eb-89f9-79edb1ac8dce](https://user-images.githubusercontent.com/50513215/123350780-9a243c80-d553-11eb-9a7c-f2f42ff19d15.png)
+### Motion quatification aand comparison algorithms
+![123350767-955f8880-d553-11eb-804d-3350ae9711eb](https://user-images.githubusercontent.com/50513215/124355964-a8d1ba00-dc0b-11eb-9532-d0df962f4105.png)
+
 
 
 ### Demo
