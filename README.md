@@ -14,7 +14,7 @@ Matlab 2016a or above
 
 
 
-### Motion quatification aand comparison algorithms
+### Motion quatification and comparison algorithms
 ![123350767-955f8880-d553-11eb-804d-3350ae9711eb](https://user-images.githubusercontent.com/50513215/124355964-a8d1ba00-dc0b-11eb-9532-d0df962f4105.png)
 
 
